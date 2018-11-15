@@ -65,3 +65,34 @@ a:hover{
 .share{
     padding-bottom: 10px;
 }
+.article{
+    display: flex;
+}
+.image2{
+   width: 90%; 
+}
+.ad{
+    color: #e5127d;
+    font-family: "Heroic",Arial Narrow,Helvetica,sans-serif;
+}
+h3{
+    font-family: "Heroic",Arial Narrow,Helvetica,sans-serif; 
+}
+    ol li{
+        float: left;
+    } 
+    
+.para{
+    float: center;
+    margin: 0%;
+}
+.ad{
+    border-top: 3px solid blue;
+    border-right: 3px solid blue;
+}
+p{
+    color: #424242;
+}
+a{
+    color: #e5127d;
+}
